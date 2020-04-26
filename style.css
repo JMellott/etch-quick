@@ -1,0 +1,13 @@
+.box {
+    display: flex;
+    flex-wrap:wrap;
+    width: 960px;
+}
+
+.hovered {
+    background-color: red;
+}
+
+.unhovered {
+    background-color: white;
+}
